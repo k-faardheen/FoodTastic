@@ -1,6 +1,6 @@
 # FoodTastic using Tailwind CSS 🍝
 
-<img src="./img/FoodTastic.png">
+<img src="public/img/FoodTastic.png">
 
 ---
 
